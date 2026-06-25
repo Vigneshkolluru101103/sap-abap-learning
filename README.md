@@ -113,7 +113,7 @@ A separate CDS View (`ZVK_EMPLOYEE_CDS`) is defined for the data model layer —
 
 **Kolluru Vignesh**
 - Email: kolluruvignesh10@gmail.com
-- LinkedIn: [www.linkedin.com/in/vigneshkolluru]www.linkedin.com/in/vigneshkolluru)
+- LinkedIn: [www.linkedin.com/in/vigneshkolluru]
 
 ---
 
